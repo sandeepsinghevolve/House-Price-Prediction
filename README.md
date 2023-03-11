@@ -1,2 +1,1 @@
-# House-Price-Prediction
-Predicting House Price using ML Algorithms
+Predict sales prices of house on buyer’s dream apartment description
